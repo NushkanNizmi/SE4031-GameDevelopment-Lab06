@@ -4,9 +4,28 @@
 
 ---
 
-## Goal
+---
 
-Hit targets using VR ray interaction and increase “Targets” score.
+## Objective
+
+Implement an interactive target practice system in VR using ray-based interaction, where users can hit targets to increase a score counter displayed on the HUD, and observe automatic target reset behavior after a delay.
+
+This lab extends the existing GameManager and HUD system to support gameplay scoring and event-driven interactions using the XR Interaction Toolkit.
+
+---
+
+## Learning Outcomes
+
+By the end of this lab, students will be able to:
+
+- Create interactive targets using XR Simple Interactable  
+- Handle ray-based selection events in VR  
+- Connect XR interaction events to custom C# methods  
+- Implement a scoring system using a centralized GameManager  
+- Update HUD elements dynamically based on gameplay events  
+- Use coroutines to implement delayed object reset behavior  
+- Design simple interactive VR gameplay mechanics  
+- Extend existing systems across multiple labs in a continuous project  
 
 ---
 
