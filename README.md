@@ -1,6 +1,6 @@
 # 🧪 Lab 06 (2 Hours) — Interactable 2: Targets Hit Score (Ray Select)
 
-✅ Includes scripts + event wiring
+Includes scripts + event wiring
 
 ---
 
